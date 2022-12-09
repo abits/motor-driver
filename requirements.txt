@@ -1,0 +1,9 @@
+adafruit_ssd1306==2.12.11
+adafruit_framebuf==1.4.14
+adafruit_httpserver==0.5.4
+adafruit_requests==1.12.11
+adafruit_motor==3.4.5
+adafruit_bus_device==5.2.3
+adafruit_register==1.9.14
+adafruit_espatcontrol==0.9.1
+adafruit_esp32spi==5.0.5
