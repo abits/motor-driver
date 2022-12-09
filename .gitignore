@@ -167,3 +167,4 @@ cython_debug/
 boot_out.txt
 System\ Volume\ Information
 font5x8.bin
+secrets.py
