@@ -1,0 +1,7 @@
+Found device at I:\, running CircuitPython 8.0.0-beta.6.
+adafruit_requests==1.12.11
+adafruit_framebuf==1.5.0
+adafruit_ssd1306==2.12.12
+adafruit_httpserver==2.0.0
+adafruit_motor==3.4.5
+adafruit_bus_device==5.2.3
